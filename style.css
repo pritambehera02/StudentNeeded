@@ -178,12 +178,14 @@
   top: 1356px;
 }
 .study {
-  border-radius: 80px;
-  width: 398px;
-  height: 229.15px;
+  color: #ffffff;
+  text-align: center;
+  font: 700 28px/66px "Outfit", sans-serif;
   position: absolute;
-  left: 765px;
-  top: 1356px;
+  left: 791px;
+  top: 1996px;
+  width: 372px;
+  height: 79px;
 }
 .job-opportunities {
   color: #ffffff;
